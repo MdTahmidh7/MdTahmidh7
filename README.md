@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdtahmidh7&label=Profile%20views&color=0e75b6&style=flat" alt="mdtahmidh7" /> </p>
 
-- 🌱 I’m currently learning **JavaScript Python**
+- 🌱 I’m currently learning **Angular SpringBoot**
 
 - 🤝 I’m looking for help with **Web Development**
 
-- 💬 Ask me about **Java PHP**
+- 💬 Ask me about **Java Angular**
 
 - 📫 How to reach me **mdtahmidh7@gamil.com**
 
